@@ -43,11 +43,5 @@ This research was conducted with the support of a grant from the Gwangju Climate
 
 ---
 
-## ☀️ [Integrating AI-based Solar Panel Detection with WRF Model for Microclimate Impact Analysis](./solar_panel)
-This project aims to precisely detect the location and area of solar panels by analyzing optical satellite band data with an AI model. Furthermore, this high-resolution solar panel distribution data will be integrated into the WRF (Weather Research and Forecasting) numerical model to update existing land-use data to reflect real-world conditions and incorporate the panels' physical properties—such as albedo, surface roughness, and thermal characteristics—as land surface parameters.
-
-Through this integrated modeling approach, the research will quantitatively analyze the effects of large-scale solar farms on local weather phenomena, including ambient temperature and wind circulation.
-
----
 
 Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Sep 2025
